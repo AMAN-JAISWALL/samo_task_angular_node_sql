@@ -1,0 +1,2 @@
+# samo_task_angular_node_sql
+this_is_my_learning_project
